@@ -1,0 +1,19 @@
+body{
+    width: 400px;
+    height: 300px;
+    display:grid;
+    background-color:#0D004C;
+    place-items:center;
+    position:relative;
+  }
+  div {
+    width: 120px;
+    height: 30px;
+    background: #dd6b4d;
+    position:absolute;
+    top:52px;
+    right:72px;
+    background-color:#B8B7CC;
+    box-shadow:-120px 30px 0px #B8B7CC,0px 60px 0px #B8B7CC,-120px 90px 0px #B8B7CC,
+    0px 120px 0px #B8B7CC,-120px 150px 0px #B8B7CC;
+  }
